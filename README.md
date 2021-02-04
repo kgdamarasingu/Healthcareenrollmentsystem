@@ -1,7 +1,7 @@
 # Healthcareenrollmentsystem
 Healthcareenrollmentsystem
 
-1)  First start the servic here  
+1)  First start the servic here we are getting all details using  name and we are maintain
 
 2)  Open the postman open new tab and  select  post  method and  Under url section  copy  paster URL http://localhost:8080/Person/create
 3) under  body section  paste  it  than  hit  enter it will create  new  enrolly in database
